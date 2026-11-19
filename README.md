@@ -15,10 +15,12 @@ characters in total.
 
 | File | Use it for |
 |---|---|
-| `fonts/IfThisFindsYou-Saymo-quebec-print-felt-bold-GY3E.woff2` | Websites |
-| `fonts/IfThisFindsYou-Saymo-quebec-print-felt-bold-GY3E.ttf` | Installing on your computer, to use in apps such as Figma, Keynote or Word. It's the same font as the WOFF2 file, uncompressed, with its outlines and names unchanged. |
-| `LICENSE.txt` | The SIL Open Font License 1.1 and the font's copyright notice |
-| `CREDITS.txt` | Every source the handwriting was built from |
+| `fonts/quebec-print-felt-bold.woff2` | Websites |
+| `fonts/quebec-print-felt-bold.ttf` | Installing on your computer, for Figma, Keynote, Word and other apps |
+| `LICENSE.txt` | The licence and copyright notice |
+| `CREDITS.txt` | Every handwriting source, with links |
+
+Both font files hold the same font; the TTF is simply uncompressed.
 
 ## Using the font on a website
 
@@ -26,14 +28,14 @@ Copy the WOFF2 file into your site, then load it with `@font-face`:
 
 ```css
 @font-face {
-  font-family: "IfThisFindsYou Saymo quebec-print-felt-bold GY3E";
-  src: url("/fonts/IfThisFindsYou-Saymo-quebec-print-felt-bold-GY3E.woff2") format("woff2");
+  font-family: "Quebec Print Felt Bold";
+  src: url("/fonts/quebec-print-felt-bold.woff2") format("woff2");
   font-weight: 400;
   font-display: swap;
 }
 
 h1 {
-  font-family: "IfThisFindsYou Saymo quebec-print-felt-bold GY3E", "Bradley Hand", cursive;
+  font-family: "Quebec Print Felt Bold", "Bradley Hand", cursive;
 }
 ```
 
