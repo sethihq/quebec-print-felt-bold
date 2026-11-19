@@ -1,12 +1,27 @@
 # Quebec Print Felt Bold
 
-A bold felt-tip handwriting font. You can use it for free, including in commercial work, under the
-[SIL Open Font License 1.1](https://openfontlicense.org).
+A bold felt-tip handwriting font, made by
+[The If This Finds You Project Authors](https://ifthisfindsyou.app) and shared here unchanged under
+its own [SIL Open Font License 1.1](https://openfontlicense.org). The design and the font belong to
+them; this repository only redistributes it, as the licence allows, with every credit kept. Its
+original name, inside the font file, is "IfThisFindsYou Saymo quebec-print-felt-bold GY3E".
+
+You can use it for free, including in commercial work.
 
 ![A specimen of the font: "See you somewhere on the internet :)", then the lowercase and uppercase alphabets, figures and accented letters](quebec-print-felt-bold-specimen.png)
 
 It has uppercase and lowercase letters, figures, punctuation and accented Latin letters, 319
 characters in total.
+
+## In colour
+
+The same font set in a few colour pairings, as ideas for how it can look.
+
+| | |
+|---|---|
+| ![The font in brown-black on cream: "Written by hand, in felt-tip"](images/01-cream.png) | ![The font on pale pink: "Notes in the margin", the second line in orchid, and a handwritten to-do list](images/02-orchid.png) |
+| ![The font in white on cornflower blue: "Hello, nice to meet you" and the lowercase alphabet](images/03-cornflower.png) | ![The font in brown-black on butter yellow: "Make it by hand :)" and the uppercase alphabet](images/04-butter.png) |
+| ![The font in cream and lime on near-black, at four sizes](images/05-ground.png) | ![Accented letters in brown-black on pale lime](images/06-lime.png) |
 
 ## Files
 
@@ -40,10 +55,9 @@ The font reads best in capitals at large sizes, so try `text-transform: uppercas
 
 ## Credits
 
-- **Font:** The If This Finds You Project Authors, at
+- **Font design and creation:** The If This Finds You Project Authors, at
   [ifthisfindsyou.app](https://ifthisfindsyou.app), who create fictional writers' hands based on
-  real handwriting traditions. Inside the font file it keeps its original name, "IfThisFindsYou
-  Saymo quebec-print-felt-bold GY3E".
+  real handwriting traditions. The copyright notice in [`LICENSE.txt`](LICENSE.txt) is theirs.
 - **Handwriting:** the letters were traced from photographs of volunteers' handwritten copies made
   for Copiste d'un jour, a project of the Bibliothèque et Archives nationales du Québec (2024),
   published under the [Creative Commons Attribution 4.0 licence](https://creativecommons.org/licenses/by/4.0/).
@@ -56,6 +70,11 @@ The font reads best in capitals at large sizes, so try `text-transform: uppercas
   Cognition, Inc., 900 Technology Park Drive, Billerica, MA 01821 (mit-eddie!ci-dandelion!hurt).*
 
 [`CREDITS.txt`](CREDITS.txt) lists every source page by name, with a link to each.
+
+**What changed here:** nothing in the font itself. The files were renamed to
+`quebec-print-felt-bold`, and the TTF is the original WOFF2 file uncompressed, with its outlines,
+names and licence notice untouched. The specimen and colour images were made with the font for
+this page.
 
 ## Sharing the font
 
