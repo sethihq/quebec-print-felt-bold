@@ -1,25 +1,28 @@
 # IfThisFindsYou Saymo quebec-print-felt-bold GY3E
 
-A bold felt-tip handwriting font: the **Saymo Quebec Print, felt-tip bold** hand from
-[If This Finds You](https://ifthisfindsyou.app), which writes fictional writers' hands from real
-handwriting traditions. It's free to use, including commercially, under the
-[SIL Open Font License 1.1](https://openfontlicense.org).
+A bold felt-tip handwriting font from [If This Finds You](https://ifthisfindsyou.app), which
+creates fictional writers' hands based on real handwriting traditions. This one is the "Saymo
+Quebec Print, felt-tip bold" hand. You can use it for free, including in commercial work, under
+the [SIL Open Font License 1.1](https://openfontlicense.org).
 
-![Specimen: "See you somewhere on the internet :)" and the alphabet in the hand](specimen.png)
+![A specimen of the font: "See you somewhere on the internet :)", then the lowercase and uppercase alphabets, figures and accented letters](specimen.png)
 
-That is the font's original name, as it's written inside the file. It has upper and lower case,
-figures, punctuation and accented Latin letters (319 characters).
+The title above is the font's original name, exactly as it appears inside the font file. The font
+has uppercase and lowercase letters, figures, punctuation and accented Latin letters, 319
+characters in total.
 
 ## Files
 
-| File | For |
+| File | Use it for |
 |---|---|
 | `fonts/IfThisFindsYou-Saymo-quebec-print-felt-bold-GY3E.woff2` | Websites |
-| `fonts/IfThisFindsYou-Saymo-quebec-print-felt-bold-GY3E.ttf` | Installing on a computer (Figma, Keynote, Word and the like). It's the same font as the WOFF2, unpacked; the outlines and names are unchanged. |
-| `LICENSE.txt` | The SIL Open Font License 1.1, with the font's copyright notice |
-| `CREDITS.txt` | Every source the hand was built from |
+| `fonts/IfThisFindsYou-Saymo-quebec-print-felt-bold-GY3E.ttf` | Installing on your computer, to use in apps such as Figma, Keynote or Word. It's the same font as the WOFF2 file, uncompressed, with its outlines and names unchanged. |
+| `LICENSE.txt` | The SIL Open Font License 1.1 and the font's copyright notice |
+| `CREDITS.txt` | Every source the handwriting was built from |
 
-## Use it on a website
+## Using the font on a website
+
+Copy the WOFF2 file into your site, then load it with `@font-face`:
 
 ```css
 @font-face {
@@ -34,29 +37,28 @@ h1 {
 }
 ```
 
-It reads best in capitals at display sizes (`text-transform: uppercase`).
+The font reads best in capitals at large sizes, so try `text-transform: uppercase` on headings.
 
 ## Credits
 
-- **The font:** The If This Finds You Project Authors, [ifthisfindsyou.app](https://ifthisfindsyou.app).
-- **The handwriting it was traced from:** volunteers' handwritten copies made for **Copiste d'un
-  jour**, a project of the Bibliothèque et Archives nationales du Québec (2024), published under
-  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Letter skeletons were traced from the
-  photographs, then redrawn, varied and outlined by a generator. No endorsement by the writers or
-  the project is implied.
-- **The Hershey fonts:** some symbols, punctuation and letter skeletons derive from them, and their
-  terms ask that this acknowledgement travels with the data: *The Hershey Fonts were originally
-  created by Dr. A. V. Hershey while working at the U. S. National Bureau of Standards. The format
-  of the Font data in this distribution was originally created by James Hurt, Cognition, Inc., 900
-  Technology Park Drive, Billerica, MA 01821 (mit-eddie!ci-dandelion!hurt).*
+- **Font:** The If This Finds You Project Authors, at
+  [ifthisfindsyou.app](https://ifthisfindsyou.app).
+- **Handwriting:** the letters were traced from photographs of volunteers' handwritten copies made
+  for Copiste d'un jour, a project of the Bibliothèque et Archives nationales du Québec (2024),
+  published under the [Creative Commons Attribution 4.0 licence](https://creativecommons.org/licenses/by/4.0/).
+  A generator then redrew, varied and outlined them. Neither the writers nor the project endorse
+  this font.
+- **Hershey fonts:** some symbols, punctuation and letter shapes come from the Hershey fonts,
+  whose terms ask for this acknowledgement to travel with the data: *The Hershey Fonts were
+  originally created by Dr. A. V. Hershey while working at the U. S. National Bureau of Standards.
+  The format of the Font data in this distribution was originally created by James Hurt,
+  Cognition, Inc., 900 Technology Park Drive, Billerica, MA 01821 (mit-eddie!ci-dandelion!hurt).*
 
-Every source page is listed by name and link in [`CREDITS.txt`](CREDITS.txt).
+[`CREDITS.txt`](CREDITS.txt) lists every source page by name, with a link to each.
 
-## If you share it on
+## Sharing the font
 
-- Keep `LICENSE.txt` and `CREDITS.txt` with the font files.
-- You can bundle it with anything (a site, an app, a template, a product), but you can't sell the
-  font on its own.
-- If you change the font itself, give your version a different name.
-
-Shared by [Rajat Sethi](https://x.com/sethihq). All credit for the font goes to the people above.
+- Keep `LICENSE.txt` and `CREDITS.txt` together with the font files.
+- You can include the font in anything you make or sell, such as a website, an app or a template,
+  but you can't sell the font on its own.
+- If you modify the font, give your version a new name.
