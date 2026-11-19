@@ -1,14 +1,11 @@
-# IfThisFindsYou Saymo quebec-print-felt-bold GY3E
+# Quebec Print Felt Bold
 
-A bold felt-tip handwriting font from [If This Finds You](https://ifthisfindsyou.app), which
-creates fictional writers' hands based on real handwriting traditions. This one is the "Saymo
-Quebec Print, felt-tip bold" hand. You can use it for free, including in commercial work, under
-the [SIL Open Font License 1.1](https://openfontlicense.org).
+A bold felt-tip handwriting font. You can use it for free, including in commercial work, under the
+[SIL Open Font License 1.1](https://openfontlicense.org).
 
 ![A specimen of the font: "See you somewhere on the internet :)", then the lowercase and uppercase alphabets, figures and accented letters](specimen.png)
 
-The title above is the font's original name, exactly as it appears inside the font file. The font
-has uppercase and lowercase letters, figures, punctuation and accented Latin letters, 319
+It has uppercase and lowercase letters, figures, punctuation and accented Latin letters, 319
 characters in total.
 
 ## Files
@@ -44,7 +41,9 @@ The font reads best in capitals at large sizes, so try `text-transform: uppercas
 ## Credits
 
 - **Font:** The If This Finds You Project Authors, at
-  [ifthisfindsyou.app](https://ifthisfindsyou.app).
+  [ifthisfindsyou.app](https://ifthisfindsyou.app), who create fictional writers' hands based on
+  real handwriting traditions. Inside the font file it keeps its original name, "IfThisFindsYou
+  Saymo quebec-print-felt-bold GY3E".
 - **Handwriting:** the letters were traced from photographs of volunteers' handwritten copies made
   for Copiste d'un jour, a project of the Bibliothèque et Archives nationales du Québec (2024),
   published under the [Creative Commons Attribution 4.0 licence](https://creativecommons.org/licenses/by/4.0/).
