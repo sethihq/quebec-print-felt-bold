@@ -3,7 +3,7 @@
 A bold felt-tip handwriting font. You can use it for free, including in commercial work, under the
 [SIL Open Font License 1.1](https://openfontlicense.org).
 
-![A specimen of the font: "See you somewhere on the internet :)", then the lowercase and uppercase alphabets, figures and accented letters](specimen.png)
+![A specimen of the font: "See you somewhere on the internet :)", then the lowercase and uppercase alphabets, figures and accented letters](quebec-print-felt-bold-specimen.png)
 
 It has uppercase and lowercase letters, figures, punctuation and accented Latin letters, 319
 characters in total.
